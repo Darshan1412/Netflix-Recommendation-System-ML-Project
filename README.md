@@ -63,9 +63,9 @@ pip install flask
 # Author
 
 👤 **Priya Garg**
-- Github: https://github.com/garg-priya-creator
-- Linkedin: https://www.linkedin.com/in/priya-garg-9220381b3
-- Email: priyagarg072@gmail.com
+- Github: https://github.com/Darshan1412
+- Linkedin: https://www.linkedin.com/in/Darshan-Jain1/
+- Email: darshanjain768@gmail.com
 
 # Show Your Support 
 
