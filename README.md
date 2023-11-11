@@ -46,9 +46,6 @@ git clone https://github.com/Darshan1412/Netflix-Recommendation-System-ML-Projec
 # Go into the repository
 cd netflix-recommendation-system
 
-# Install flask (if you already haven't)
-pip install flask
-
 # Install requirements (if you already haven't)
 pip install -r requirements.txt
 
