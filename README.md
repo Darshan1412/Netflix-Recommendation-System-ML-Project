@@ -10,25 +10,25 @@ A web-app which can be used to get recommendations for a series/movie, the app r
 - [Netflix Page](#netflix-page)
 
 ## Home Page
-Here the user can choose list of their favourite movies and series and their preferred language. For example, I have entered a list with 2 Horror Movies(Insidious and Insidious Chapter 2), an action series(Supergirl) and a drama series(Suits) as my list of choices and English and Hindi as my preferred languages.
+The user may select a list of their favorite movies and TV shows, as well as their chosen language, on this page. For example, I submitted a list with two horror movies (Insidious and Insidious Chapter 2), an action series (Supergirl), and a drama series (Suits) as my selections, and English and Hindi as my chosen languages.
 Clicking on the Get Started button the user will see the list of recommendations.
 ![](/app/static/screenshots/Screenshot-HomePage.png)
 
 ## Recommendation Page
-Here the user will get poster images of all the recommended movies and series sorted based upon their IMDb Scores.
+The user will see poster pictures for all of the recommended movies and shows, organized by IMDb score.
 ![](/app/static/screenshots/Screenshot-RecommendationPage1.png)
 ![](/app/static/screenshots/Screenshot-RecommendationPage2.png)
 
 Clicking on any poster image, the user will be sent to the Movie Details page for the corresponding title.
 
 ## Movie Detail Page
-Here are the complete details of the user selected title like Genre, Movie Summary, Languages in which movie is available, IMDb scores, Directors, Writers and Actors and so on. User will also find a link at the end of the page for the NEtflix Page of the corresponding title. 
+Here are the full information of the user-selected title, such as the genre, movie summary, languages in which the film is accessible, IMDb scores, directors, writers, and actors, and so on. The user will also find a link to the related title's Netflix page at the bottom of the page. 
 ![](/app/static/screenshots/Screenshot-MovieDetailPage1.png)
 ![](/app/static/screenshots/Screenshot-MovieDetailPage2.png)
 
 ## Netflix Page
-This page is not a part of my web-app but an example what the user will see as the Netflix Page if they choose to click on the Netflix Link for the title.
-You can login into your Netflix account and enjoy watching your selected movie or series from our recommendations.
+This page is not part of my web-app, but it is an example of what the user will see if they click on the Netflix Link for the title.
+You may use your Netflix account and view the movie or series of your choice from our suggestions.
 ![](/app/static/screenshots/Screenshot-NetflixPage.png)
 
 # How To Use
