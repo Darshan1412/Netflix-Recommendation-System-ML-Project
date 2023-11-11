@@ -41,13 +41,16 @@ To be able to use this web app locally in a development environment you will nee
 
 ```cmd
 # Clone this repository
-git clone https://github.com/garg-priya-creator/Netflix-Recommendation-System.git
+git clone https://github.com/Darshan1412/Netflix-Recommendation-System-ML-Project.git
 
 # Go into the repository
 cd netflix-recommendation-system
 
 # Install flask (if you already haven't)
 pip install flask
+
+# Install requirements (if you already haven't)
+pip install -r requirements.txt
 
 ```
 3) To run this application you don't need to have any special configuration but make sure you don't change the directory of the project otherwise you can recieve errors while you try to run the app.
@@ -79,8 +82,8 @@ pip install flask
 
 👤 **Seona Dabre**
 - Github: 
-- Linkedin: 
-- Email: 
+- Linkedin: https://www.linkedin.com/in/seona-dabre-3b0666248/
+- Email: dabreseona18@gmail.com
 
 
 
